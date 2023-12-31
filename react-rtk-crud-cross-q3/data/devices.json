@@ -1,0 +1,46 @@
+{
+  "devices": [
+    {
+      "id": "id_1702462588009",
+      "title": "iphone-13 prooo max",
+      "ram": "24 gb",
+      "color": "blue"
+    },
+    {
+      "id": "id_1702462659886",
+      "title": "mac air m2",
+      "ram": "8gb",
+      "color": "starlight"
+    },
+    {
+      "id": "id_1702462716889",
+      "title": "mac m2 pro ",
+      "ram": "24 gb",
+      "color": "midnight"
+    },
+    {
+      "id": "id_1702462761945",
+      "title": "iphone - 14 pro",
+      "ram": "8gb",
+      "color": "green"
+    },
+    {
+      "id": "id_1702609983868",
+      "title": "mac mini",
+      "ram": "24 gb",
+      "color": "white"
+    },
+    {
+      "id": "id_1702610007947",
+      "title": "iphone-13 pro",
+      "ram": "16 gb",
+      "color": "white"
+    },
+    {
+      "id": "id_1702612618020",
+      "title": "habijabi",
+      "ram": "",
+      "color": ""
+    }
+  ]
+}

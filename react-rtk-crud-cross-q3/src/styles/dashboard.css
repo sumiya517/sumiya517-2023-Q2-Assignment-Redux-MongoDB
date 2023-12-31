@@ -1,0 +1,24 @@
+.dashboard {
+    padding: 20px 200px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .ant-card {
+    margin-bottom: 16px;
+  }
+  
+  .fa-mobile-alt {
+    font-size: 24px;
+  }
+  
+  .chart-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
